@@ -1,6 +1,3 @@
 build
 .gradle
 Pods
-xcuserdata
-.DS_Store
-xcshareddata
